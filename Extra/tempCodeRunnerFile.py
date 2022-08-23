@@ -1,2 +1,2 @@
 
-print("Upside Down Right Angle Triangle\n")
+        for index in range(startindex, len(iter)):
